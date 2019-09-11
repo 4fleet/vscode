@@ -3,20 +3,22 @@
     "publisher": "4fleet-tec",
     "displayName": "RichardFelciano",
     "description": "4fleet official theme",
-    "version": "0.3.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.38.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:4fleet/vscode.git"
     },
     "categories": [
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "4fleet",
-                "uiTheme": "vs-dark",
-                "path": "./themes/4fleet-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "4fleet",
+            "uiTheme": "vs-dark",
+            "path": "./themes/4fleet-color-theme.json"
+        }]
     }
 }
