@@ -1,0 +1,22 @@
+{
+    "name": "4fleet-tec",
+    "publisher": "4fleet-tec",
+    "displayName": "RichardFelciano",
+    "description": "4fleet official theme",
+    "version": "0.2.0",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "4fleet",
+                "uiTheme": "vs-dark",
+                "path": "./themes/4fleet-color-theme.json"
+            }
+        ]
+    }
+}
