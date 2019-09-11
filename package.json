@@ -3,7 +3,7 @@
     "publisher": "4fleet-tec",
     "displayName": "RichardFelciano",
     "description": "4fleet official theme",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.38.0"
     },
